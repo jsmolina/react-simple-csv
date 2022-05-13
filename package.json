@@ -1,0 +1,26 @@
+{
+  "name": "react-simple-csv",
+  "version": "1.0.0",
+  "description": "Simple CSV component heavily inspired by mui-datatables code.",
+  "main": "src/index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsmolina/react-simple-csv.git"
+  },
+  "keywords": [
+    "react-simple-csv",
+    "react",
+    "csv"
+  ],
+  "author": "Jordi Sesmero",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jsmolina/react-simple-csv/issues"
+  },
+  "homepage": "https://github.com/jsmolina/react-simple-csv#readme"
+}
